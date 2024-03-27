@@ -1,5 +1,6 @@
 # diabetic_retinopathy
 DataSet : https://www.kaggle.com/datasets/mariaherrerot/aptos2019
+
 TR:
 ## Veri Seti ve Veri Ön İşleme
 
