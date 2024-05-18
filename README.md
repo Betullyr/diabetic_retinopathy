@@ -12,7 +12,7 @@ TR:
 
 - Önceden eğitilmiş bir derin öğrenme modeli  EfficientNet ile  transfer learning kullanılmıştır.
 - Transfer learning işlemi, göz veri seti üzerindeki özellikleri öğrenmek için önceden eğitilmiş modelin ağırlıklarının ayarlanmasını içerir.
-ingilizcesini de verirmiisn
+
 
 EN:
 ## Dataset and Data Preprocessing
